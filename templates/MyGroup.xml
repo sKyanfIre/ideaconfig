@@ -1,0 +1,12 @@
+<templateSet group="MyGroup">
+  <template name="*" value="*&#10;* @author zhangtianyu&#10;* @description $descritpion$&#10;* @date $date$ $time$&#10;* @param $param$&#10;* @retrun $return$&#10;**/" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="false">
+    <variable name="descritpion" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

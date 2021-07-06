@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="s" />
+      <item value="exclusive" />
+      <item value="A bean with that name has already been defined and overriding is disabled." />
+      <item value="Auth Global Filter" />
+      <item value="Deque" />
+      <item value="departure" />
+      <item value="Acquires in exclusive uninterruptible mode for thread already in * queue. Used by condition wait methods as well as acquire." />
+      <item value="Try the fast path of enq; backup to full enq on failure" />
+      <item value="Sets the thread that currently owns exclusive access." />
+      <item value="//Given a binary search tree (BST) with duplicates, find all the mode(s) (the mo //st frequently occurred element) in the given BST." />
+      <item value="Establishing" />
+      <item value="Extending or modify the list of exception resolvers configured by default. * This can be useful for inserting a custom exception resolver without * interfering with default ones." />
+      <item value="Exception thrown when an attempt to insert or update data * results in violation of an integrity constraint." />
+      <item value="Evaluates this predicate on the given argument." />
+      <item value="predicate" />
+      <item value="Assume" />
+      <item value="implicit" />
+      <item value="frequently" />
+      <item value="duplicates" />
+      <item value="Embedded" />
+      <item value="ancestor" />
+      <item value="This class represents an Internet Protocol (IP) address." />
+      <item value="/** * Reserve the original application specified hostname. * * The original hostname is useful for domain-based endpoint * identification (see RFC 2818 and RFC 6125). If an address * was created with a raw IP address, a reverse name lookup * may introduce endpoint identification security issue via * DNS forging. * * Oracle JSSE provider is using this original hostname, via * sun.misc.JavaNetAccess, for SSL/TLS endpoint identification. * * Note: May define a new public method in the future if necessary. */" />
+      <item value="family" />
+      <item value="cannot time out yet" />
+      <item value="* A {@link Future} that may be explicitly completed (setting its * value and status), and may be used as a {@link CompletionStage}, * supporting dependent functions and actions that trigger upon its * completion. *" />
+      <item value="w.lock(); // If pool is stopping, ensure thread is interrupted; // if not, ensure thread is not interrupted. This // requires a recheck in second case to deal with // shutdownNow race while clearing interrupt" />
+      <item value="/** * Attempts to stop all actively executing tasks, halts the * processing of waiting tasks, and returns a list of the tasks * that were awaiting execution. These tasks are drained (removed) * from the task queue upon return from this method. * * &lt;p&gt;This method does not wait for actively executing tasks to * terminate. Use {@link #awaitTermination awaitTermination} to * do that. * * &lt;p&gt;There are no guarantees beyond best-effort attempts to stop * processing actively executing tasks. This implementation * cancels tasks via {@link Thread#interrupt}, so any task that * fails to respond to interrupts may never terminate. * * @throws SecurityException {@inheritDoc} */" />
+      <item value="** * Drains the task queue into a new list, normally using * drainTo. But if the queue is a DelayQueue or any other kind of * queue for which poll or drainTo may fail to remove some * elements, it deletes them one by one. */" />
+      <item value="/** Mode meaning to reinterrupt on exit from wait */" />
+      <item value="/** Mode meaning to throw InterruptedException on exit from wait */" />
+      <item value="/** * Blocks until all tasks have completed execution after a shutdown * request, or the timeout occurs, or the current thread is * interrupted, whichever happens first. *" />
+      <item value="Eligible to terminate" />
+      <item value="If abrupt, then workerCount wasn't adjusted" />
+      <item value="** * If false (default), core threads stay alive even when idle. * If true, core threads use keepAliveTime to time out waiting * for work. */" />
+      <item value="/** * Timeout in nanoseconds for idle threads waiting for work. * Threads use this timeout when there are more than corePoolSize * present or if allowCoreThreadTimeOut. Otherwise they wait * forever for new work. */" />
+      <item value="* If false (default), core threads stay alive even when idle. * If true, core threads use keepAliveTime to time out waiting * for work. */" />
+      <item value="/** * If false (default), core threads stay alive even when idle. * If true, core threads use keepAliveTime to time out waiting * for work. */ private vol" />
+      <item value="// Check if queue empty only if necessary." />
+      <item value="/** * Performs cleanup and bookkeeping for a dying worker. Called * only from worker threads. Unless completedAbruptly is set, * assumes that workerCount has already been adjusted to account * for exit. This method removes thread from worker set, and * possibly terminates the pool or replaces the worker if either * it exited due to user task exception or if fewer than * corePoolSize workers are running or queue is non-empty but * there are no workers. * * @param w the worker * @param completedAbruptly if the worker died due to user exception */" />
+      <item value="abrupt" />
+      <item value="Abruptly" />
+      <item value="completed Abruptly" />
+      <item value="/** * Transitions to TERMINATED state if either (SHUTDOWN and pool * and queue empty) or (STOP and pool empty). If otherwise * eligible to terminate but workerCount is nonzero, interrupts an * idle worker to ensure that shutdown signals propagate. This * method must be called following any action that might make * termination possible -- reducing worker count or removing tasks * from the queue during shutdown. The method is non-private to * allow access from ScheduledThreadPoolExecutor. */" />
+      <item value="// If pool is stopping, ensure thread is interrupted; // if not, ensure thread is not interrupted. This // requires a recheck in second case to deal with // shutdownNow race while clearing interrupt" />
+      <item value="// If pool is stopping, ensure thread is interrupted;" />
+      <item value="/** * Acquires in exclusive mode, ignoring interrupts. Implemented * by invoking at least once {@link #tryAcquire}, * returning on success. Otherwise the thread is queued, possibly * repeatedly blocking and unblocking, invoking {@link * #tryAcquire} until success. This method can be used * to implement method {@link Lock#lock}. *" />
+      <item value="/** * Acquires in exclusive mode, ignoring interrupts. Implemented * by invoking at least once {@link #tryAcquire}, * returning on success. Otherwise the thread is queued, possibly * repeatedly blocking and unblocking, invoking {@link * #tryAcquire} until success. This method can be used * to implement method {@link Lock#lock}. * * @param arg the acquire argument. This value is conveyed to * {@link #tryAcquire} but is otherwise uninterpreted and * can represent anything you like. */" />
+      <item value="/** * Tests whether the current thread has been interrupted. The * &lt;i&gt;interrupted status&lt;/i&gt; of the thread is cleared by this method. In * other words, if this method were to be called twice in succession, the * second call would return false (unless the current thread were * interrupted again, after the first call had cleared its interrupted * status and before the second call had examined it). * * &lt;p&gt;A thread interruption ignored because a thread was not alive * at the time of the interrupt will be reflected by this method * returning false. * * @return &lt;code&gt;true&lt;/code&gt; if the current thread has been interrupted; * &lt;code&gt;false&lt;/code&gt; otherwise. * @see #isInterrupted() * @revised 6.0" />
+      <item value="/** * Class Worker mainly maintains interrupt control state for * threads running tasks, along with other minor bookkeeping. * This class opportunistically extends AbstractQueuedSynchronizer * to simplify acquiring and releasing a lock surrounding each * task execution. This protects against interrupts that are * intended to wake up a worker thread waiting for a task from * instead interrupting a task being run. We implement a simple * non-reentrant mutual exclusion lock rather than use * ReentrantLock because we do not want worker tasks to be able to * reacquire the lock when they invoke pool control methods like * setCorePoolSize. Additionally, to suppress interrupts until * the thread actually starts running tasks, we initialize lock * state to a negative value, and clear it upon start (in * runWorker). */" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="184" />
+        <entry key="PORTUGUESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="33053a7d4b871847" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
