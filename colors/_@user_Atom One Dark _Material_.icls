@@ -4,7 +4,7 @@
     <property name="created">2021-07-06T15:11:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-07-06T15:24:33</property>
+    <property name="modified">2021-07-07T14:51:21</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -3621,6 +3621,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="314365" />
+        <option name="ERROR_STRIPE_COLOR" value="465f90" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
