@@ -1,0 +1,12 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
