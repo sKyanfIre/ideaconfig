@@ -1,5 +1,6 @@
 <application>
   <component name="TipsStore">
+    <entry projectPath="$USER_HOME$/git/apollo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/git/axzo-framework" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/git/gaia" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/git/leaf" startUpFlag="FIRST" />
