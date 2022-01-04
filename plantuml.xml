@@ -5,6 +5,11 @@
     <option name="dotExecutable" value="/opt/homebrew/Cellar/graphviz/2.50.0/bin/dot" />
     <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2021.16" />
+    <option name="previewSettings">
+      <PreviewSettings>
+        <option name="splitEditorLayout" value="Show editor only" />
+      </PreviewSettings>
+    </option>
     <option name="usePreferentiallyGRAPHIZ_DOT" value="true" />
   </component>
 </application>
