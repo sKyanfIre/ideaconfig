@@ -22,9 +22,13 @@
           <option name="url" value="http://axzsource.com" />
           <option name="userName" value="zhangtianyu@axzo.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://axzsource.com/trade/apollo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\git" />
+    <option name="cloneParentDir" value="$USER_HOME$/git" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
