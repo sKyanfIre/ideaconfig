@@ -7,6 +7,7 @@
     <entry projectPath="$USER_HOME$/git/mns" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/git/zeus" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/github/cloud" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/github/leetcode" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/github/spring-framework" startUpFlag="FIRST" />
   </component>
 </application>
