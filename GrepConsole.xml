@@ -33,24 +33,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="cost" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="getUserDetails" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -99,7 +81,25 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="cost" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="post token" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="getUserDetails" />
               </GrepModel>
             </list>
           </option>
