@@ -81,7 +81,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
+                <option name="expression" value="post token total" />
               </GrepModel>
             </list>
           </option>
@@ -90,7 +90,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="post token total" />
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
@@ -127,6 +127,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="getUserDetails" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="loadUser" />
               </GrepModel>
             </list>
           </option>
