@@ -90,15 +90,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="cost" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="login total" />
               </GrepModel>
             </list>
@@ -154,6 +145,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="cost" />
               </GrepModel>
             </list>
           </option>
