@@ -135,7 +135,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
+                <option name="expression" value="get user" />
               </GrepModel>
             </list>
           </option>
@@ -144,7 +144,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="get user" />
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
