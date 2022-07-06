@@ -7,7 +7,7 @@
     <option name="lastBundledVersion" value="1.2021.16" />
     <option name="previewSettings">
       <PreviewSettings>
-        <option name="splitEditorLayout" value="Show editor only" />
+        <option name="splitEditorLayout" value="Show preview only" />
       </PreviewSettings>
     </option>
     <option name="usePreferentiallyGRAPHIZ_DOT" value="true" />
