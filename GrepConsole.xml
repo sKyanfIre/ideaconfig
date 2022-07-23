@@ -212,6 +212,15 @@
             </list>
           </option>
         </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="51823" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
       </list>
     </option>
     <option name="profiles">
