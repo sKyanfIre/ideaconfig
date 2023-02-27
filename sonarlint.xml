@@ -1,14 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="secretsNeverBeenAnalysed" value="false" />
     <rules>
       <Rule active="false" key="java:S1874" />
       <Rule active="false" key="java:S1220" />
       <Rule active="false" key="java:S1186" />
-      <Rule active="false" key="java:S1181" />
       <Rule active="false" key="java:S1659" />
+      <Rule active="false" key="java:S1181" />
       <Rule active="false" key="java:S3740" />
-      <Rule active="false" key="java:S1854" />
       <Rule active="false" key="java:S3655" />
+      <Rule active="false" key="java:S1854" />
     </rules>
   </component>
 </application>
