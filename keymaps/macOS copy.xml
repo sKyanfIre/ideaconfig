@@ -12,10 +12,15 @@
     <keyboard-shortcut first-keystroke="meta 8" />
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="FindNext" />
   <action id="MainMenu">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
