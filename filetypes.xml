@@ -7,6 +7,7 @@
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="ProductClassServiceTest.java" type="PLAIN_TEXT" />
       <mapping pattern="ProductClassServiceTest" type="PLAIN_TEXT" />
+      <mapping ext="grovvy" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
